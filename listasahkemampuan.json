@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Listening (Random 1)",
+    "files": [
+      { "url": "https://raw.githubusercontent.com/username/soalepstopik/main/listening1/1.png", "name": "1.png", "folder": "listening1" },
+      { "url": "https://raw.githubusercontent.com/username/soalepstopik/main/listening1/1.mp3", "name": "1.mp3", "folder": "listening1" },
+      { "url": "https://raw.githubusercontent.com/username/soalepstopik/main/listening1/2.png", "name": "2.png", "folder": "listening1" },
+      { "url": "https://raw.githubusercontent.com/username/soalepstopik/main/listening1/2.mp3", "name": "2.mp3", "folder": "listening1" }
+    ],
+    "isDownloaded": false,
+    "progress": 0,
+    "downloadedFiles": [],
+    "folderExists": false,
+    "isDownloading": false
+  },
+  {
+    "id": 2,
+    "name": "Listening (Random 2)",
+    "files": [
+      { "url": "https://raw.githubusercontent.com/username/soalepstopik/main/listening2/1.png", "name": "1.png", "folder": "listening2" },
+      { "url": "https://raw.githubusercontent.com/username/soalepstopik/main/listening2/1.mp3", "name": "1.mp3", "folder": "listening2" },
+      { "url": "https://raw.githubusercontent.com/username/soalepstopik/main/listening2/2.png", "name": "2.png", "folder": "listening2" },
+      { "url": "https://raw.githubusercontent.com/username/soalepstopik/main/listening2/2.mp3", "name": "2.mp3", "folder": "listening2" }
+    ],
+    "isDownloaded": false,
+    "progress": 0,
+    "downloadedFiles": [],
+    "folderExists": false,
+    "isDownloading": false
+  }
+]
