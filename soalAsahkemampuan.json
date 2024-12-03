@@ -1,4 +1,4 @@
-questions: any[] =  [
+[
     
 {"id":"1","id_soal":"1","id_kemampuan":"1","judul":" 빈칸에 들어갈 가장 알맞은 것을 고르십시오","soal":"날씨가 너무 더워서 냉방을 하려고 합니다. 그래서 내일 _________ 을\/를 사러  전자상가에 갑니다.","gambar":"0","audio":"0","jawaban1":"난로","jawaban2":"에어컨","jawaban3":"환풍기","jawaban4":"보일러","kunci":"2","script":"0"},
 {"id":"2","id_soal":"2","id_kemampuan":"1","judul":" 빈칸에 들어갈 가장 알맞은 것을 고르십시오","soal":"어제 산 바지가 좀 작아서 교환하려고 갔는데. 그런 바지가 모두 팔려서 __________ 을\/를 받고 집에 돌아왔습니다.","gambar":"0","audio":"0","jawaban1":"교환","jawaban2":"예금","jawaban3":"환불","jawaban4":"환전","kunci":"3","script":"0"},
