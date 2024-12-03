@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Listening (Random 1)",
+    "name": "Asah Kemampuan Part 1",
     "files": [
         { "url": "https://raw.githubusercontent.com/owieepstopik/listasahkemampuan/main/kemampuan1/5.png", "name": "5.png", "folder": "kemampuan1" },
     { "url": "https://raw.githubusercontent.com/owieepstopik/listasahkemampuan/main/kemampuan1/6.png", "name": "6.png", "folder": "kemampuan1" },
@@ -55,7 +55,7 @@
   },
   {
     "id": 2,
-    "name": "Listening (Random 2)",
+    "name": "Asah Kemampuan Part 2",
     "files": [
       { "url": "https://raw.githubusercontent.com/owieepstopik/listasahkemampuan/main/kemampuan2/7.png", "name": "7.png", "folder": "kemampuan2" },
     { "url": "https://raw.githubusercontent.com/owieepstopik/listasahkemampuan/main/kemampuan2/8.png", "name": "8.png", "folder": "kemampuan2" },
